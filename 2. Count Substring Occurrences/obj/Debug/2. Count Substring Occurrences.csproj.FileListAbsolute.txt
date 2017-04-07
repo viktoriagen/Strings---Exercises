@@ -1,0 +1,5 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings and Text Processing\2. Count Substring Occurrences\bin\Debug\_2.Count_Substring_Occurrences.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings and Text Processing\2. Count Substring Occurrences\bin\Debug\_2.Count_Substring_Occurrences.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings and Text Processing\2. Count Substring Occurrences\bin\Debug\_2.Count_Substring_Occurrences.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings and Text Processing\2. Count Substring Occurrences\obj\Debug\_2.Count_Substring_Occurrences.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings and Text Processing\2. Count Substring Occurrences\obj\Debug\_2.Count_Substring_Occurrences.pdb

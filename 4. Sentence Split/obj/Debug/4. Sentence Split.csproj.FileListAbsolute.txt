@@ -1,0 +1,5 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\4. Sentence Split\bin\Debug\_4.Sentence_Split.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\4. Sentence Split\bin\Debug\_4.Sentence_Split.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\4. Sentence Split\bin\Debug\_4.Sentence_Split.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\4. Sentence Split\obj\Debug\_4.Sentence_Split.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\4. Sentence Split\obj\Debug\_4.Sentence_Split.pdb

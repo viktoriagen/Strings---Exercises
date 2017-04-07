@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\2. JSON stringify\bin\Debug\_2.JSON_stringify.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\2. JSON stringify\bin\Debug\_2.JSON_stringify.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\2. JSON stringify\bin\Debug\_2.JSON_stringify.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\2. JSON stringify\obj\Debug\2. JSON stringify.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\2. JSON stringify\obj\Debug\_2.JSON_stringify.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\2. JSON stringify\obj\Debug\_2.JSON_stringify.pdb

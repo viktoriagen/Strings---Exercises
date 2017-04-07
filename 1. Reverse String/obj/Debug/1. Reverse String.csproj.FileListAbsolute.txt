@@ -1,0 +1,5 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings and Text Processing\1. Reverse String\bin\Debug\_1.Reverse_String.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings and Text Processing\1. Reverse String\bin\Debug\_1.Reverse_String.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings and Text Processing\1. Reverse String\bin\Debug\_1.Reverse_String.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings and Text Processing\1. Reverse String\obj\Debug\_1.Reverse_String.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings and Text Processing\1. Reverse String\obj\Debug\_1.Reverse_String.pdb

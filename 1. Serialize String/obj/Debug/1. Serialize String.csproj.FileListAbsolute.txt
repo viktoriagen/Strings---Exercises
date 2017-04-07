@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - More Exercise\1. Serialize String\bin\Debug\_1.Serialize_String.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - More Exercise\1. Serialize String\bin\Debug\_1.Serialize_String.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - More Exercise\1. Serialize String\bin\Debug\_1.Serialize_String.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - More Exercise\1. Serialize String\obj\Debug\1. Serialize String.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - More Exercise\1. Serialize String\obj\Debug\_1.Serialize_String.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - More Exercise\1. Serialize String\obj\Debug\_1.Serialize_String.pdb

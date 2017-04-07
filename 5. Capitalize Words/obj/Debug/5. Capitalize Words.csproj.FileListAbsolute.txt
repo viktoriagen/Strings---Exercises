@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\5. Capitalize Words\bin\Debug\_5.Capitalize_Words.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\5. Capitalize Words\bin\Debug\_5.Capitalize_Words.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\5. Capitalize Words\bin\Debug\_5.Capitalize_Words.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\5. Capitalize Words\obj\Debug\5. Capitalize Words.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\5. Capitalize Words\obj\Debug\_5.Capitalize_Words.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\5. Capitalize Words\obj\Debug\_5.Capitalize_Words.pdb

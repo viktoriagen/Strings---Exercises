@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - More Exercise\3. Pyramidic\bin\Debug\_3.Pyramidic.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - More Exercise\3. Pyramidic\bin\Debug\_3.Pyramidic.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - More Exercise\3. Pyramidic\bin\Debug\_3.Pyramidic.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - More Exercise\3. Pyramidic\obj\Debug\3. Pyramidic.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - More Exercise\3. Pyramidic\obj\Debug\_3.Pyramidic.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - More Exercise\3. Pyramidic\obj\Debug\_3.Pyramidic.pdb

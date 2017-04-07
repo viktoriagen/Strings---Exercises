@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\3. JSON parse\bin\Debug\_3.JSON_parse.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\3. JSON parse\bin\Debug\_3.JSON_parse.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\3. JSON parse\bin\Debug\_3.JSON_parse.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\3. JSON parse\obj\Debug\3. JSON parse.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\3. JSON parse\obj\Debug\_3.JSON_parse.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\3. JSON parse\obj\Debug\_3.JSON_parse.pdb

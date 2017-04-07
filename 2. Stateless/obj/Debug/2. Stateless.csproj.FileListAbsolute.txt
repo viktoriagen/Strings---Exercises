@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - More Exercise\2. Stateless\bin\Debug\_2.Stateless.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - More Exercise\2. Stateless\bin\Debug\_2.Stateless.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - More Exercise\2. Stateless\bin\Debug\_2.Stateless.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - More Exercise\2. Stateless\obj\Debug\2. Stateless.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - More Exercise\2. Stateless\obj\Debug\_2.Stateless.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - More Exercise\2. Stateless\obj\Debug\_2.Stateless.pdb

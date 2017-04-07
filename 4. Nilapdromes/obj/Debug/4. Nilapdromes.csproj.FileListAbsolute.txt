@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - More Exercise\4. Nilapdromes\bin\Debug\_4.Nilapdromes.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - More Exercise\4. Nilapdromes\bin\Debug\_4.Nilapdromes.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - More Exercise\4. Nilapdromes\bin\Debug\_4.Nilapdromes.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - More Exercise\4. Nilapdromes\obj\Debug\4. Nilapdromes.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - More Exercise\4. Nilapdromes\obj\Debug\_4.Nilapdromes.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - More Exercise\4. Nilapdromes\obj\Debug\_4.Nilapdromes.pdb

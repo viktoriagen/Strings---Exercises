@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings and Text Processing\bannedWords\bin\Debug\bannedWords.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings and Text Processing\bannedWords\bin\Debug\bannedWords.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings and Text Processing\bannedWords\bin\Debug\bannedWords.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings and Text Processing\bannedWords\obj\Debug\bannedWords.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings and Text Processing\bannedWords\obj\Debug\bannedWords.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings and Text Processing\bannedWords\obj\Debug\bannedWords.pdb

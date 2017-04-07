@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\1. Placeholders\bin\Debug\_1.Placeholders.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\1. Placeholders\bin\Debug\_1.Placeholders.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\1. Placeholders\bin\Debug\_1.Placeholders.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\1. Placeholders\obj\Debug\1. Placeholders.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\1. Placeholders\obj\Debug\_1.Placeholders.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings - Exercises\1. Placeholders\obj\Debug\_1.Placeholders.pdb

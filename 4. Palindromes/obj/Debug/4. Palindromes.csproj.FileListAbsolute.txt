@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings and Text Processing\4. Palindromes\bin\Debug\_4.Palindromes.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings and Text Processing\4. Palindromes\bin\Debug\_4.Palindromes.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings and Text Processing\4. Palindromes\bin\Debug\_4.Palindromes.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings and Text Processing\4. Palindromes\obj\Debug\4. Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings and Text Processing\4. Palindromes\obj\Debug\_4.Palindromes.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Projects\Strings and Text Processing\4. Palindromes\obj\Debug\_4.Palindromes.pdb
